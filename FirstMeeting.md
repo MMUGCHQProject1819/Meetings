@@ -11,9 +11,9 @@ Absent:
 Chair:
 Minutes:
 ------
-#Plan Of Action
+# Plan Of Action
 ======
-##Worth noting that if you haven't made an E-mail and a github account in the Professional Development Lab you should make one now!
+## Worth noting that if you haven't made an E-mail and a github account in the Professional Development Lab you should make one now!
 
 1. Get to know each other
 
