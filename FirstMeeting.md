@@ -1,13 +1,19 @@
 
 Location:
+
 Time:
+
 Date:
 
+
 Present:
+
 Late:
+
 Absent:
 
 Chair:
+
 Minutes:
 # Plan Of Action
 ------
@@ -17,7 +23,7 @@ Minutes:
 
 2. Talk about the Project, and our skills
 
-3. Talk about next meeting and when we make contact with Katie (katie46354@gchq.gov.uk) exchange E-mails/Github accounts
+3. Talk about next meeting and when we make contact with Katie (katie46354@gchq.gov.uk) exchange E-mails/Github/Facebook/Phone numbers
 
 4. Add everyone to the Github Organisation
 
@@ -27,4 +33,6 @@ Minutes:
 
 7. Complaints
 
-8. Feedback on the format of the meeting
+8. Next meeting date
+
+9. Feedback on the format of the meeting
