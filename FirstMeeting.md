@@ -1,20 +1,18 @@
 
-Location:
+Location: JD Student hub
 
-Time:
+Time: 12:09
 
-Date:
+Date:26/10/2018
 
 
-Present:
+Present:Everyone
 
-Late:
+Late:-
 
-Absent:
+Absent:-
 
-Chair:
-
-Minutes:
+Minutes: George
 # Plan Of Action
 ------
 ## Worth noting that if you haven't made an E-mail and a github account in the Professional Development Lab you should make one now!
