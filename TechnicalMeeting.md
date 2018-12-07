@@ -1,17 +1,14 @@
-Location: JD Student hub
-
+Location: Student Hub
 Time: 11:02
-
 Date: 23/11/2018
 
-Present: Waqaas Tariq, James Hull, Jacob Wybrant, George Drakos, Liam Lewis
-
+Present: Waqaas, James, Jacob, George, Liam
 Late:-
-
 Absent:- 
  
-Minutes: 
-# Technical Questions 
+Plan Of Action:
+
+Technical Questions 
 
 1. What kind of application are we going to develop? e.g. Web app, Desktop app etc. 
 2. What operating system are we going to use?
@@ -19,10 +16,10 @@ Minutes:
 4. How much flexibility will the library give us? 
 5. Can we write some of our own code for facial recognition?
 
-# Rough plans:
-Build the facial recognition program with OpenCV and Java. This allows use to run it with a web server (Jetty) and on linux although we need to focus on the main program first. 
+Rough plans:
+Build the facial recognition program with OpenCV and Python.
 
-# TODO:
-1. Meeting on the 30th with the client (Need to book/find a room)
+What needs to be done:
+1. Meeting on the 5th with the client (Need to book/find a room)
 2. Prepare for the presentation (Answer the questions on the powerpoint)
 3. More research into facial recognition, OpenCV, machine learning and the appropriate algorithms.
