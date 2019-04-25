@@ -21,7 +21,7 @@ Minutes: George
 
 2. Talk about the Project, and our skills
 
-3. Talk about next meeting and when we make contact with Katie (katie46354@gchq.gov.uk) exchange E-mails/Github/Facebook/Phone numbers
+3. Talk about next meeting and when we make contact with client exchange E-mails/Github/Facebook/Phone numbers
 
 4. Add everyone to the Github Organisation
 
